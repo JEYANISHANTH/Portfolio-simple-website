@@ -26,3 +26,4 @@ Easy navigation between pages
 
 View Website
 
+https://jeyanishanth.github.io/Portfolio-simple-website/
